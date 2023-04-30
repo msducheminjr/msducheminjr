@@ -11,14 +11,17 @@ Most of my serious open source work takes place in the [Stateless Code](https://
 
 ## Strengths and Personality
 <p align="center">
-<img src="https://media.tenor.com/8m9C3Ik2jtYAAAAC/austinpowers-milk.gif" alt="Moss from IT Crowd just finished his milk">
+<img src="https://media.tenor.com/8m9C3Ik2jtYAAAAC/austinpowers-milk.gif" alt="Moss from IT Crowd just finished his milk" />
 </p>
-My dominant talents are in the **Ideation, Strategic, Learner, Connectedness, and Adaptability** themes. (2023 assessment)
+
+My dominant talents are in the **Ideation, Strategic, Learner, Connectedness, and Adaptability** themes. 
+
+### 2023 assessment
 
 ![strengths_2023](https://user-images.githubusercontent.com/10717484/235326012-9460430c-f027-42f4-97d1-a29d60071049.png)
 
-I previously took the assessment in 2014: **Ideation, Achiever, Learner, Input, and Strategic**)
-
+I previously took the assessment in 2014: **Ideation, Achiever, Learner, Input, and Strategic**
+### 2014 assessment
 ![strengths_2014](https://user-images.githubusercontent.com/10717484/235326038-5220e8c3-293b-427f-9220-9dba441cb50a.png)
 
 I geek out over Simon Sinek's Start With Why, Clifton Strengthsfider, and many other things. 
