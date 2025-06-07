@@ -10,9 +10,7 @@ The repos associated with my account [msducheminjr](https://github.com/msduchemi
 Most of my serious open source work takes place in the [Stateless Code](https://github.com/statelesscode) organization. I'm a "fuzzy techie" with a liberal arts background who learned how to program in the wild to solve business problems. I want to help other people learn to code by trying to provide the resources I wish I had. All of the work done with Stateless Code is available on our [YouTube channel](https://www.youtube.com/statelesscode). There are hundreds of free videos with more being added all the time.
 
 ## Strengths and Personality
-<p align="center">
-<img src="https://media.tenor.com/8m9C3Ik2jtYAAAAC/austinpowers-milk.gif" alt="Moss from IT Crowd just finished his milk" />
-</p>
+I nerd out over the Clifton StrengthsFinder and other personality tests. I'm a big believer in strengths-based development, where you double down on where your talents lie and try to be an outlier there instead of stiving to be "well-rounded."
 
 My dominant talents are in the **Ideation, Strategic, Learner, Connectedness, and Adaptability** themes. 
 
