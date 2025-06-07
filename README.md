@@ -10,7 +10,7 @@ The repos associated with my account [msducheminjr](https://github.com/msduchemi
 Most of my serious open source work takes place in the [Stateless Code](https://github.com/statelesscode) organization. I'm a "fuzzy techie" with a liberal arts background who learned how to program in the wild to solve business problems. I want to help other people learn to code by trying to provide the resources I wish I had. All of the work done with Stateless Code is available on our [YouTube channel](https://www.youtube.com/statelesscode). There are hundreds of free videos with more being added all the time.
 
 ## Strengths and Personality
-I nerd out over the Clifton StrengthsFinder and other personality tests. I'm a big believer in strengths-based development, where you double down on where your talents lie and try to be an outlier there instead of stiving to be "well-rounded."
+I geek out over the Clifton StrengthsFinder, other personality tests, and [Simon Sinek's Start With Why](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=en), and many other things. I'm advocate of strengths-based development, where you double down on where your talents lie and try to be an outlier there instead of stiving to be "well-rounded."
 
 My dominant talents are in the **Ideation, Strategic, Learner, Connectedness, and Adaptability** themes. 
 
@@ -21,8 +21,6 @@ My dominant talents are in the **Ideation, Strategic, Learner, Connectedness, an
 I previously took the assessment in 2014: **Ideation, Achiever, Learner, Input, and Strategic**
 ### 2014 assessment
 ![strengths_2014](https://user-images.githubusercontent.com/10717484/235326038-5220e8c3-293b-427f-9220-9dba441cb50a.png)
-
-I geek out over Simon Sinek's Start With Why, Clifton Strengthsfider, and many other things. 
 
 Myers-Briggs Type Inidicator: **INFP** I'm a True North type of person who is more concerned with the Why and the vision. I typically use my "gut" to make decisions.
 
